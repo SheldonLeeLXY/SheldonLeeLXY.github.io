@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About"
+browser_title: "Welcome to Xiangyu Li's Homepage"
 author_profile: true
 redirect_from:
   - /about/
