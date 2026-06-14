@@ -1,18 +1,16 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Xiangyu Li:
+  name            : "Xiangyu Li"
+  uri             : "https://sheldonleelxy.github.io/"
+  email           : "xli312@connect.hkust-gz.edu.cn"
+  bio             : "PhD student at HKUST(GZ)"
+  location        : "Guangzhou, China"
+  employer        : "HKUST(GZ)"
+  avatar          : "profile.png"
+  arxiv           : "https://arxiv.org/a/li_x_33.html"
+  googlescholar   : "https://scholar.google.com/citations?user=Egm_ZVsAAAAJ&hl=en"
+  orcid           : "https://orcid.org/0009-0008-2650-7631"
+  researchgate    : "https://www.researchgate.net/profile/Xiangyu-Li-102"
+  github          : "SheldonLeeLXY"
+  linkedin        : "sheldonleelxy"

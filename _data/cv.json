@@ -1,152 +1,205 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Xiangyu Li",
+    "email": "xli312@connect.hkust-gz.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://sheldonleelxy.github.io/",
+    "summary": "PhD student at HKUST(GZ) working on autonomous driving systems, perception and localization, end-to-end driving models, and system-level evaluation using large-scale real-world driving datasets.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Guangzhou",
+      "countryCode": "CN",
+      "region": "Guangdong"
     },
     "profiles": [
       {
+        "network": "arXiv",
+        "username": "",
+        "url": "https://arxiv.org/a/li_x_33.html"
+      },
+      {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=Egm_ZVsAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0008-2650-7631"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "",
+        "url": "https://www.researchgate.net/profile/Xiangyu-Li-102"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "SheldonLeeLXY",
+        "url": "https://github.com/SheldonLeeLXY"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "sheldonleelxy",
+        "url": "https://www.linkedin.com/in/sheldonleelxy"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "KITE Lab, The Hong Kong University of Science and Technology (Guangzhou)",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2025-09-01",
+      "endDate": "2026-01-01",
+      "summary": "Built the PAVE Dataset for production autonomous vehicle evaluation.",
+      "highlights": [
+        "Integrated camera, GNSS/RTK, IMU, and CAN bus data collected in naturalistic driving environments.",
+        "Supported dataset design distinguishing autonomous driving and manual driving modes."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "School of Computing, University of Leeds",
+      "position": "Researcher, Pipebots Project",
+      "website": "https://pipebots.ac.uk/",
+      "startDate": "2020-10-01",
+      "endDate": "2024-07-01",
+      "summary": "Worked on autonomous robots for inspection and mapping in underground pipe networks.",
+      "highlights": [
+        "Designed autonomous navigation and topological mapping algorithms.",
+        "Worked with ROS, Linux, Gazebo simulation, embedded systems, and multi-sensor integration."
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "education": [
+    {
+      "institution": "The Hong Kong University of Science and Technology (Guangzhou)",
+      "area": "PhD Student",
+      "studyType": "PhD Student",
+      "startDate": "2026-01-01",
+      "endDate": "Present",
+      "gpa": null,
+      "courses": [
+
+      ]
+    },
+    {
+      "institution": "University of Leeds",
+      "area": "Robotics",
+      "studyType": "MPhil",
+      "startDate": "2020-10-01",
+      "endDate": "2024-07-01",
+      "gpa": null,
+      "courses": [
+
+      ]
+    },
+    {
+      "institution": "Southwest Jiaotong University (SWJTU)",
+      "area": "Computer Science and Technology",
+      "studyType": "BSc (First Class Honours)",
+      "startDate": "2016-09-01",
+      "endDate": "2020-07-01",
+      "gpa": "3.68/4.0",
+      "courses": [
+
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming and Tools",
+      "keywords": [
+        "Python",
+        "C/C++",
+        "PyTorch",
+        "OpenCV",
+        "ROS",
+        "Qt",
+        "Linux",
+        "Java",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Research Areas",
+      "keywords": [
+        "Autonomous driving datasets",
+        "Localization",
+        "Robotics",
+        "Sensor integration",
+        "Trajectory analysis",
+        "System-level evaluation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Autonomous Driving",
+      "keywords": [
+        "Perception",
+        "Localization",
+        "End-to-end driving",
+        "Evaluation"
+      ]
+    },
+    {
+      "name": "Robotics",
+      "keywords": [
+        "Confined spaces",
+        "Navigation",
+        "Topological mapping"
+      ]
+    }
+  ],
+  "references": [
+
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Mining and Evaluating Autonomous Vehicle Behaviors: A Scene-Categorization Framework for Controlled Intersections",
+      "publisher": "2026 IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)",
+      "releaseDate": "2026-09-15",
+      "summary": "Accepted as a regular paper with an oral presentation at ITSC 2026 in Naples, Italy."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "PAVE: An End-to-End Dataset for Production Autonomous Vehicle Evaluation",
+      "publisher": "Findings of CVPR 2026",
+      "releaseDate": "2026-06-08",
+      "website": "https://arxiv.org/abs/2511.14185",
+      "summary": "A real-world autonomous-driving dataset for system-level evaluation of production autonomous vehicles."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Real-time robot topological localization and mapping with limited visual sampling in simulated buried pipe networks",
+      "publisher": "Frontiers in Robotics and AI",
+      "releaseDate": "2023-09-01",
+      "website": "https://doi.org/10.3389/frobt.2023.1202568",
+      "summary": "A robotics study on real-time topological localization and mapping for buried pipe networks."
     }
   ],
   "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
+
   ],
   "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
+
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "PAVE Dataset",
+      "category": "dataset",
+      "date": "2026-06-08",
+      "url": "https://kite-lab.github.io/PAVE_Dataset/",
+      "description": "A real-world autonomous-driving dataset for production autonomous vehicle evaluation."
     }
   ]
 }

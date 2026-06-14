@@ -109,6 +109,9 @@
         </div>
         <div class="cv-item-content">
           <div class="cv-item-subtitle">{{ work.company }}</div>
+          {% if work.website and work.website != "" %}
+          <div class="cv-item-detail"><a href="{{ work.website }}" target="_blank">Website</a></div>
+          {% endif %}
           {% if work.summary %}
           <div class="cv-item-detail">{{ work.summary }}</div>
           {% endif %}
