@@ -174,7 +174,7 @@
     },
     {
       "name": "PAVE: An End-to-End Dataset for Production Autonomous Vehicle Evaluation",
-      "publisher": "Findings of CVPR 2026",
+      "publisher": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
       "releaseDate": "2026-06-08",
       "website": "https://arxiv.org/abs/2511.14185",
       "summary": "A real-world autonomous-driving dataset for system-level evaluation of production autonomous vehicles."

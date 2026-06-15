@@ -34,7 +34,7 @@ Education
 Publications
 ======
 - Liu, T., Ma, K., Liu, Y., & **Li, X.** (2026). *Mining and Evaluating Autonomous Vehicle Behaviors: A Scene-Categorization Framework for Controlled Intersections*. Proceedings of the 2026 IEEE 29th International Conference on Intelligent Transportation Systems (ITSC). Accepted as a regular paper.
-- **Li, X.**, Wang, C., Liu, Y., He, D., Zhang, J., & Ma, K. (2026). *PAVE: An End-to-End Dataset for Production Autonomous Vehicle Evaluation*. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Findings of CVPR 2026. [arXiv](https://arxiv.org/abs/2511.14185)
+- **Li, X.**, Wang, C., Liu, Y., He, D., Zhang, J., & Ma, K. (2026). *PAVE: An End-to-End Dataset for Production Autonomous Vehicle Evaluation*. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 1010--1018. [arXiv](https://arxiv.org/abs/2511.14185)
 - **Li, X. S.**, Nguyen, T. L., Cohn, A. G., Dogar, M., & Cohen, N. (2023). *Real-time robot topological localization and mapping with limited visual sampling in simulated buried pipe networks*. Frontiers in Robotics and AI, 10. [DOI](https://doi.org/10.3389/frobt.2023.1202568)
 
 Professional Experience
